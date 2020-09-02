@@ -4,7 +4,6 @@ best phishing tool ever made for kali linux work with ngrok
 it has morethan 6 different of phishing page (fake page)
 
 ## Author: github.com/0xfff0800
-## IG: instagram.com/xp3
 ## IG: instagram.com/0xfff0800
 
 DzFLO is a python for doing fake pages with ngrok
